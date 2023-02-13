@@ -1,0 +1,18 @@
+taobao:
+  homepage: https://www.taobao.com
+  cart:
+    url: https://cart.taobao.com/cart.htm
+    select-all-dom: J_SelectAll1
+    settle: J_Go
+    submit: 提交订单
+  login:
+    button: 亲，请登录
+    success-xpath: //*[@id="J_SiteNavMytaobao"]/div[1]/a/span
+  pay:
+    password:
+
+seckill:
+  time: 2023-02-12 20:00:00
+  max-retry: 30
+
+chrome-driver-dir: chromedriver_win32/

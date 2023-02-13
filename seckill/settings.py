@@ -1,0 +1,3 @@
+CHROME_DRIVER_DIR = "chromedriver_win32/"
+SECKILL_TIME = "2023-02-12 19:55:00"
+PASSWORD = None
